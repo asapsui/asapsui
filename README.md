@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asapsui
-- 👀 I’m interested in statiscal learning and building models
-- 🌱 I’m currently learning C#, SQL, Java, R
+- 👀 I’m interested in software engineering and data science
+- 🌱 I’m currently learning C#, SQL, Python
 - 💞️ I’m looking to collaborate on ANYTHING
 
 <!---
