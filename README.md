@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sam Imose
+- 👋 Hi, I’m Sam
 - 👀 I’m interested in software engineering and machine learning
 - 🌱 I’m currently learning Python, C#, SQL
 <!---
